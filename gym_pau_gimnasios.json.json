@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "nombre": "Golds Gym Venice",
+  "ciudad": "Los Angeles",
+  "direccion": "320 Hampton Dr, Venice"
+},
+{
+  "_id": 20,
+  "nombre": "IES Henri Matisse Gym",
+  "ciudad": "Paterna",
+  "direccion": "Instalaciones del instituto"
+}]

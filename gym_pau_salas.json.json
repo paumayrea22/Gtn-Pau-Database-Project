@@ -1,0 +1,12 @@
+[{
+  "_id": 1,
+  "nombre": "Sala Musculación Principal",
+  "aforo": 150,
+  "Gimnasio_id_gimnasio": 20
+},
+{
+  "_id": 11,
+  "nombre": "Sala Posing y Espejos",
+  "aforo": 10,
+  "Gimnasio_id_gimnasio": 1
+}]
